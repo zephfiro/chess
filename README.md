@@ -1,1 +1,1 @@
-# More PHP Studies :D
+# Chess in PHP
